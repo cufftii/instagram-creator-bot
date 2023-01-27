@@ -8,7 +8,7 @@
 
 ## If you want to create a new daily post,
 1. `python -m run create_daily_post`
-2. `python -m run create_watercolor.picture`
+2. `python -m run create_watercolor_picture`
 3. `python -m run upload_on_instagram`
 
 ## If you want to make a request other than the upper ones,
